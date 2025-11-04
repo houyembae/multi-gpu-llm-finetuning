@@ -120,22 +120,6 @@ The fine-tuned model demonstrates proficiency in:
 - **Accuracy:** Reduced transcription errors through AI-assisted documentation  
 - **Scalability:** Can handle multiple medical specialties and documentation styles  
 
----
-
-## Limitations & Future Work
-
-### Current Limitations
-- Single epoch training for demonstration  
-- Dataset size (9K examples) limits coverage of all medical scenarios  
-- Focused on general medical conversations  
-- Requires clinical validation for real-world deployment  
-
-### Enhancement Opportunities
-- **Multi-epoch Training:** Extended training for improved performance  
-- **Specialty-specific Models:** Cardiology, oncology, pediatrics specialization  
-- **Multimodal Integration:** Incorporate lab results and imaging findings  
-- **Clinical Validation:** Partner with healthcare institutions for testing  
-- **Real-time Deployment:** Integration with EMR systems and telemedicine platforms  
 
 ---
 
